@@ -1,4 +1,4 @@
-0x05-advanced_linear_algebra
+advanced_linear_algebra
 
 This directory contains work with Advanced Linear Algebra:
 Mandatory Tasks:
